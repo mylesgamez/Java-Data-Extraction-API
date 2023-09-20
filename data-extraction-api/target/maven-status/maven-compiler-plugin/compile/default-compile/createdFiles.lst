@@ -1,0 +1,5 @@
+com/mylesgamez/App.class
+com/mylesgamez/Product.class
+com/mylesgamez/LoadProductFileToMySQL.class
+com/mylesgamez/LoadProductsIntoSolr.class
+com/mylesgamez/SolrDataExtractorController.class
